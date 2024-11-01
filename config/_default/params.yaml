@@ -3,8 +3,8 @@
 ############################
 
 author:
-  name: "Qubt"
-  image: author.jpeg
+  name: "Joël Gaillard"
+  image: essai.png
   greeting: "A personal blog theme for Hugo :evergreen_tree:"
   icon: ":wave:"
 
